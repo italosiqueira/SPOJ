@@ -1,0 +1,1 @@
+SPOJ challenges solved by me for personal studies.
